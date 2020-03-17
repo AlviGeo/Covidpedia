@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+.primary {
+  background-image: linear-gradient(#333366, #3d3363, #50335e, #7b3451, #8e344b, #b03541, #cf3538, #eb3530);
+  height: 3000px;
+}
+
+.secondary {
+  background-color: #f35858;
+
+}
+
+.topnav {
+  background-color: #333366;
+  font-family: "Kievit";
+  text-align: center;
+  font-size: 17px;
+  padding: 14px 16px;
+}
+
+.secondary h1 {
+  color: rgba(71, 13, 13, 0.815);
+  text-shadow: 0px 7.5px 0.05px #dc4848;
+  text-align: center;
+  margin-top: auto;
+}
+
+.col-6 {
+  font-size: auto;
+}
+
+.col-xl-3 {
+  font-size: 15pt;
+}
+
+.row {
+  margin-top: 25px;
+}
