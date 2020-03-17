@@ -16,6 +16,7 @@ body {
 
 .secondary {
   background-color: #f35858;
+  
 
 }
 
@@ -32,6 +33,10 @@ body {
   text-shadow: 0px 7.5px 0.05px #dc4848;
   text-align: center;
   margin-top: auto;
+}
+
+.secondary p{
+  color: white;
 }
 
 .col-6 {
